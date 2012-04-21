@@ -12,7 +12,7 @@ IPTABLES="iptables"
 
 # External interface and ip
 INET_IFACE="eth1"
-INET_IP="213.222.161.156"
+INET_IP="260.260.260.260"
 
 # internal interface and ip
 LAN_IFACE="eth0"
